@@ -1,5 +1,5 @@
 # Perlin noise
-2D Perlin noise in Python and a jupyter notebook visualizing each step in the algorithm.
+2D Perlin noise in Python and a Jupyter Notebook visualizing the algorithm.
 
 <div style="text-align:center"><img src="images/perlin_noise.png"/></div>
 
